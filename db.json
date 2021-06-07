@@ -1,0 +1,25 @@
+
+
+{
+"waluta": [
+{ "id": 1, "name": "złoty", "value": "PLN" },
+{ "id": 2, "name": "euro", "value": "EUR" },
+{ "id": 3, "name": "dolar", "value": "USD" },
+{ "id": 4, "name": "funt", "value": "GBP" },
+{ "id": 5, "name": "frank", "value": "CHF" }
+],
+"nieruchomości": [
+{ "id": 1, "name": "mieszkanie", "value": "mieszkanie" },
+{ "id": 2, "name": "dom", "value": "dom" },
+{ "id": 3, "name": "działka", "value": "działka" },
+{ "id": 4, "name": "garaż", "value": "garaż" }
+
+],
+"akcje": [
+{ "id": 1, "name": "ASSECOPOL", "value": "ASSECOPOL" },
+{ "id": 2, "name": "ALLEGRO", "value": "ALLEGRO" },
+{ "id": 3, "name": "CCC", "value": "CCC" },
+{ "id": 4, "name": "CDPROJEKT", "value": "CDPROJEKT" }
+
+]
+}
